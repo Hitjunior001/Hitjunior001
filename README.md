@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**Hitjunior001/Hitjunior001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Reginaldo, um desenvolvedor com sólida experiência em desenvolvimento full-stack. 
 
-Here are some ideas to get you started:
+👯 Estou procurando colaborar em:
+- Projetos de código aberto.
+- Aplicações web inovadoras e desafiadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Me pergunte sobre:
+- JavaScript, Java, Node.js, Kotlin, etc.
+- Desenvolvimento web, APIs REST e bancos de dados.
+- Melhores práticas em engenharia de software.
+
+📫 Como entrar em contato comigo:
