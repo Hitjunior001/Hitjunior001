@@ -58,7 +58,7 @@ Se você está buscando alguém com experiência prática em **desenvolvimento w
 
 ## 📈 GitHub Stats
 
-![Reginaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=radical)
+![Reginaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitjunior001Aqui&show_icons=true&theme=radical)
 
 ---
 
