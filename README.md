@@ -1,64 +1,87 @@
-# 👋 Olá, eu sou o Reginaldo Oliveira!
+# 👨‍💻 Reginaldo Oliveira
 
-🎯 **Desenvolvedor Full-Stack** com forte experiência em transformar soluções tecnológicas em realidade. Ao longo da minha carreira, já participei de projetos de grande porte para empresas, construí interfaces de sistemas bancários e tenho experiência prática tanto em **front-end** quanto **back-end**.
+Desenvolvedor **Full Stack** com experiência sólida em **Java**, **JavaScript**, **TypeScript** e frameworks modernos como **Spring Boot**, **React**, **Angular** e **Node.js**. Apaixonado por tecnologia, arquitetura de software e por transformar ideias em soluções eficientes e escaláveis.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor apaixonado por criar **aplicações web escaláveis**, **interfaces intuitivas** e **sistemas eficientes**. Tenho um forte background em **JavaScript**, **Java**, **Node.js**, **Kotlin** e diversas outras tecnologias, além de um conhecimento profundo em **transformação de designs** (Figma para código) e **integração de sistemas complexos**.
+Sou um desenvolvedor web que atua tanto no **front-end quanto no back-end**, com profundo conhecimento na criação e manutenção de **aplicações web robustas**, **APIs RESTful**, e **integrações com bancos de dados relacionais (SQL)** e **NoSQL**.
+
+Com experiência prática em ambientes corporativos (como a **Caixa Econômica Federal**) e projetos independentes, trago comigo a capacidade de atuar em todas as camadas do desenvolvimento de software, desde o banco de dados até a interface final do usuário.
+
+Sempre buscando aprendizado contínuo, aplico **boas práticas**, **código limpo**, testes e versionamento com **Git** em todos os meus projetos.
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Tecnologias que domino
 
-### 🏦 Caixa Econômica Federal
+### Linguagens
+- Java (Spring Boot, JPA, JSP, Maven)
+- JavaScript
+- TypeScript
+- C#
 
-Durante meu tempo na **Caixa Econômica**, tive a oportunidade de colaborar diretamente na construção de **interfaces de usuário (UI)** de sistemas financeiros críticos. Nesse ambiente, minha responsabilidade envolvia não apenas a implementação, mas também a conversão de designs complexos em interfaces funcionais e bem estruturadas, garantindo que a experiência do usuário fosse intuitiva e eficiente. 
+### Front-End
+- React.js
+- Angular
+- HTML5, CSS3, TailwindCSS
 
-Além disso, fui responsável por implementar soluções para sistemas internos, sempre com foco em **desempenho** e **segurança**, essenciais para um ambiente bancário.
+### Back-End
+- Java
+- NodeJS
 
-### 💼 Freelance & Projetos Independentes
+### Banco de Dados
+- PostgreSQL, MySQL, Oracle (SQL)
+- MongoDB, Firebase (NoSQL)
 
-Além da experiência em empresas, também atuei como **freelancer**, desenvolvendo soluções personalizadas para diversos clientes. Essas experiências me ajudaram a fortalecer minhas habilidades de comunicação, gestão de prazos e entrega de soluções completas — desde o planejamento até a implementação final.
-
-Entre os projetos que já desenvolvi, destaco **plataformas web**, **APIs RESTful**, **dashboards interativos** e **e-commerce**, sempre com foco na melhor performance e usabilidade.
-
----
-
-## 💡 Interesses atuais
-
-🔍 Estou em busca de novas colaborações em:
-
-- 🧩 **Projetos open-source** com impacto real
-- 🌐 **Desafios em aplicações web** de grande escala e sistemas complexos
-- 🤝 Equipes que priorizam **código de qualidade**, **colaboração** e **crescimento contínuo**
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-- **Linguagens:** JavaScript, TypeScript, Java, Kotlin, SQL  
-- **Frameworks & Libs:** Node.js, Spring Boot, Express, React, Next.js  
-- **Banco de Dados:** PostgreSQL, MongoDB, MySQL  
-- **DevOps & Ferramentas:** Git, Docker, CI/CD, Postman, Swagger  
-- **Boas práticas:** Clean Code, SOLID, TDD, RESTful APIs
+### DevOps & Ferramentas
+- Git / GitHub
+- Docker
+- Postman
+- Swagger
+- Apache / Tomcat
+- Vite, Webpack
 
 ---
 
-## 💬 Vamos conversar!
+## 📚 Conhecimentos e Boas Práticas
 
-Se você está buscando alguém com experiência prática em **desenvolvimento web**, **conversão de Figma para código** ou **soluções de software de grande porte**, estou à disposição:
-
-📱 WhatsApp: [ +55 (61) 99691-5260 ](https://wa.me/5561996915260)  
-📧 E-mail: [junior_ferraz_11@hotmail.com](mailto:junior_ferraz_11@hotmail.com)  
-🔗 LinkedIn: [linkedin.com/in/reginaldo-oliveira-8926b2225](https://www.linkedin.com/in/reginaldo-oliveira-8926b2225/)
+- Arquitetura em camadas
+- APIs RESTful bem definidas
+- Princípios SOLID e Clean Code
+- Prototipação de sites
+- Facilidade em resolver problemas
+- Princípios scrum
 
 ---
 
-## 📈 GitHub Stats
+## 👨‍💼 Experiências marcantes
+
+### 📌 **Caixa Econômica Federal**
+> Criação de interfaces financeiras, desenvolvimento de soluções internas e integração com sistemas legados. Implementação de UIs com alto rigor visual a partir de protótipos em Figma,
+> testes QA em api
+
+### 📌 **Projetos Pessoais & Freelance**
+> Desenvolvimento de sistemas ERP, dashboards, aplicações administrativas e APIs completas com autenticação, controle de permissões e integrações externas.
+
+---
+
+## 🎯 Objetivo atual
+
+Estou em busca de oportunidades como **Desenvolvedor Web** onde eu possa contribuir com minha bagagem técnica e crescer junto com uma equipe comprometida com qualidade de software e inovação. Tenho facilidade em aprender novas tecnologias e resolver problemas de forma prática e colaborativa.
+
+---
+
+## 📞 Entre em contato comigo
+
+- 📱 [WhatsApp](https://wa.me/5561996915260)
+- 📧 [junior_ferraz_11@hotmail.com](mailto:junior_ferraz_11@hotmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/reginaldo-oliveira-8926b2225/)
+- 🗂️ [GitHub](https://github.com/Hitjunior001)
+
+---
+
+## 📊 GitHub Stats
 
 ![Reginaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitjunior001&show_icons=true&theme=radical)
-
----
-
